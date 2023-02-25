@@ -1,0 +1,10 @@
+name: S0uldUtils
+version: '${version}'
+main: me.s0uldsilence.s0uldutils.S0uldUtils
+api-version: 1.19
+
+commands:
+  kit1:
+    description: Your description
+    usage: /<command>
+    permission: S0uldUtils.kit
